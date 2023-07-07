@@ -1,0 +1,14 @@
+body{
+    font-family: "Oxanium", cursive;
+    background: #000000;
+    color: #ffffff;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: center;
+}
+
+.selecao-de-personagens {
+    display: flex;
+}
