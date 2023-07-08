@@ -11,4 +11,20 @@ body{
 
 .selecao-de-personagens {
     display: flex;
+    align-items: center;
+}
+
+.selecao-de-personagens .lista-de-personagens {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
+
+.selecao-de-personagens .personagens {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 585px;
+    gap: 25px;
 }
