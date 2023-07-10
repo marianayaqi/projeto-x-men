@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://marianayaqi.github.io/projeto-x-men/"><img width="70px" src="./imagens/logo.svg" alt="logo x-men"></a>
+# <div align="center"><a href="https://marianayaqi.github.io/projeto-x-men/"><img width="70px" src="./src/imagens/logo.svg" alt="logo x-men"></a>
 </div>
 
 
@@ -26,14 +26,14 @@ Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO com a dupla dinâm
     <br>
     <br>
       <a target="_blank" href="https://marianayaqi.github.io/projeto-x-men/">
-      <img src="./imagens/desktop.png" alt="Site X-men">
+      <img src="./src/imagens/bg-desktop.jpg" alt="Site X-men">
       </a>
     <br>
     <h4> Background Mobile - Multiple Screen
     <br>
     <br>
       <a target="_blank" href="https://marianayaqi.github.io/projeto-x-men/">
-      <img src="./imagens/mobile.png" alt="Site X-men">
+      <img src="./src/imagens/mobile.png" alt="Site X-men">
       </a>
   </div>
 
