@@ -26,7 +26,7 @@ Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO com a dupla dinâm
     <br>
     <br>
       <a target="_blank" href="https://marianayaqi.github.io/projeto-x-men/">
-      <img src="./src/imagens/bg-desktop.jpg" alt="Site X-men">
+      <img src="./src/imagens/desktop.png" alt="Site X-men">
       </a>
     <br>
     <h4> Background Mobile - Multiple Screen
