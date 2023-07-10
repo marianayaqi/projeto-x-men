@@ -26,7 +26,7 @@ Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO com a dupla dinâm
     <br>
     <br>
       <a target="_blank" href="https://marianayaqi.github.io/projeto-x-men/">
-      <img src="./src/imagens/bg-desktop.jpg" alt="Site X-men">
+      <img src="./src/imagens/desktop.png" alt="Site X-men">
       </a>
     <br>
     <h4> Background Mobile - Multiple Screen
@@ -52,10 +52,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <li> JavaScript
 <li> Git and GitHub
 <br>
-🎮<a target="_blank" href="https://discord.gg/73Fk62aM">Participe da comunidade DEV EM DOBRO no DISCORD!</a
-
-<br>    
-<h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
-  <br>
-  <br>
-<p> Até a próxima! - Bye 😉
