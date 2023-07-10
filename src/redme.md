@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://marianayaqi.github.io/projeto-mario/"><img width="70px" src="./imagens/logo.svg" alt="logo x-men"></a>
+# <div align="center"><a href="https://marianayaqi.github.io/projeto-x-men/"><img width="70px" src="./imagens/logo.svg" alt="logo x-men"></a>
 </div>
 
 
